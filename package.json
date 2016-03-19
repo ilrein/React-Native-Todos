@@ -1,0 +1,17 @@
+{
+  "name": "FullPluralTodo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "babel-eslint": "^5.0.0",
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.3",
+    "react-native": "^0.21.0",
+    "react-native-swipeout": "^2.0.12",
+    "redux": "^3.3.1"
+  }
+}
