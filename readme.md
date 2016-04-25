@@ -1,11 +1,6 @@
-Bash:
-export ANDROID_HOME=/usr/local/opt/android-sdk
+Codebase for completed course:
 
-Fish:
-set -x ANDROID_HOME /usr/local/opt/android-sdk
+>Build Cross Platform React Native Apps with Exponent and Redux
+>by Hendrik Swanepoel
 
-android {
-    lintOptions {
-        abortOnError false
-    }
-}
+A simple Todos app built in es6, React-native, compiles to both Android and iOS.
